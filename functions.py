@@ -1,6 +1,6 @@
 import pandas as pd
 
-# to get list of countries for dataset
+# to get list of countries from UN energy datasets
 def list_countries_un(dataframe):
     df = dataframe
     df_drop = df.dropna()
