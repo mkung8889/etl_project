@@ -1,10 +1,11 @@
 # etl_project
 project members: Michael K. Kristen, Mary
 
+Gather data on different energy sources and the consumption of those energy sources by different countries.
+
 Data Sources:
 -eia.gov
 -data.un.gov
-
 
 
 Transformation Process/Steps:
