@@ -7,7 +7,7 @@ CREATE TABLE country(
     country_name VARCHAR(64)
 );
 
-CREATE TABLE un_solar_energy(
+CREATE TABLE un_total_electric_energy(
 	country VARCHAR(64),
     commodity_transaction VARCHAR(128),
     year INT,
