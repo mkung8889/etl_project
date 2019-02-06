@@ -1,5 +1,13 @@
 # ETL : Extract, Transform, Load Project:
 __Extract:__ read the data, often from mupltiple sources/formats.
+## Data may come from disparate sources, such as: 
+# > CSV
+# > JSON
+# > HTML
+# > MySQL
+# > SQL
+# > Spreadsheets
+# > etc.
 
 __Transform:__ clean and structure the data to suit business needs.
 
