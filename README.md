@@ -6,7 +6,7 @@ __Transform:__ clean and structure the data to suit business needs.
 __Load:__ load the data into a database for storage that can be used for future analysis or business use.
 
 
-#### Members:  __[Kristen](https://github.com/KCDataVis)__ __[Mary](https://github.com/marygong75)__ __[Michael](https://github.com/mkung8889)__
+#### Members:  __[Kristen,](https://github.com/KCDataVis)__ __[Mary,](https://github.com/marygong75)__ __[Michael](https://github.com/mkung8889)__
 
 __[Project Repo](https://github.com/mkung8889/etl_project)__
 
