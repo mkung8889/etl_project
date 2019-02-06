@@ -15,13 +15,13 @@ __[Project Repo](https://github.com/mkung8889/etl_project)__
 ##### Each of us chose (2) data sources to analyze different international energy sources consumed annually over the years.
 
 #### Data Sources Used: 
-1) __[UN Data Total Electicity Consumption](*link*)__ 
+1) __[UN Data Total Electicity Consumption](•	http://data.un.org/Default.aspx)__ 
 
-2) __[EIA Electricity Consumption By State](*link*)__ 
+2) __[EIA Electricity Consumption By State](https://www.eia.gov)__ 
 
-3) __[EIA Natural Gas Consumption](*link*)__
+3) __[EIA Natural Gas Consumption](https://www.eia.gov)__
 
-4) __[UN Data Natural Gas Consumption](*link*)__
+4) __[UN Data Natural Gas Consumption](http://data.un.org/Default.aspx)__
 
 5) __[Enerdata World Oil Consumption](https://yearbook.enerdata.net/oil-products/world-oil-domestic-consumption-statistics.html)__
 
