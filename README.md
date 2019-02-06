@@ -51,7 +51,8 @@ All of our data were in a CSV format, so we went with SQL to store the data.
 
 4. Potential analysis to do on the newly formed dataset
 
-Compare energy consumption based on countries and year, create bar chart to see the trend of increasing energy usage, conduct analysis on why certain countries may consume more energy compare to other – this will require other data sets (country population for example).
+Compare energy consumption based on countries and year, create bar chart to see the trend of increasing energy usage, comparison between different energy source used and how that affects total energy consumption.
+Conduct analysis on why certain countries may consume more energy compare to other – this will require other data sets (country population for example).
 
 
 5. Challenges you overcame:
