@@ -27,9 +27,11 @@ __[Project Repo](https://github.com/mkung8889/etl_project)__
 
 6) __[EIA International Coal Consumption](https://www.eia.gov/beta/international/data/browser/#/?pa=0000000000000000000000000000000000000000000000000000000000g&c=ruvvvvvfvtvnvv1vrvvvvfvvvvvvfvvvou20evvvvvvvvvvvvuvs&ct=0&vs=INTL.4411-2-AFG-QBTU.A&vo=0&v=H&start=1990&end=2016)__
 
-Discussion Questions & Answer:
+***
 
-1. Data sources.
+### Discussion Questions & Answer:
+
+1. Data sources:
 
 https://www.eia.gov
 
@@ -61,7 +63,7 @@ All of our data were in a CSV format, so we went with SQL to store the data.
 Compare energy consumption based on countries and year, create bar chart to see the trend of increasing energy usage, conduct analysis on why certain countries may consume more energy compare to other – this will require other data sets (country population for example).
 
 
-5. Challenges you overcame.
+5. Challenges you overcame:
 
 - finding data that can be used for the project (relatable to what everyone else were finding year wise)
 
